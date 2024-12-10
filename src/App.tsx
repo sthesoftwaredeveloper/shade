@@ -14,6 +14,7 @@ import { SupplyChain } from './pages/about/SupplyChain';
 import { Thesaurus } from './pages/Thesaurus';
 import { HowToUse } from './pages/HowToUse';
 import { Quiz } from './pages/Quiz';
+import React from 'react';
 
 function App() {
   return (
